@@ -76,7 +76,7 @@ The goal is to demonstrate practical SQL skills for data cleaning, analysis, agg
 
 ## 📁 Project Files
 
-- `E-Commerce Sales Analysis Final.sql` – Complete SQL analysis queries
+- [E-Commerce Sales Analysis Final.sql](./E-Commerce%20Sales%20Analysis%20Final.sql)
 
 ## 🎯 Purpose
 
